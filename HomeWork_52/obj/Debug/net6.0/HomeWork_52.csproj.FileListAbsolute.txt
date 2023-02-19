@@ -1,0 +1,15 @@
+/Users/igormincenko/Desktop/HomeWork_52/bin/Debug/net6.0/HomeWork_52
+/Users/igormincenko/Desktop/HomeWork_52/bin/Debug/net6.0/HomeWork_52.deps.json
+/Users/igormincenko/Desktop/HomeWork_52/bin/Debug/net6.0/HomeWork_52.runtimeconfig.json
+/Users/igormincenko/Desktop/HomeWork_52/bin/Debug/net6.0/HomeWork_52.dll
+/Users/igormincenko/Desktop/HomeWork_52/bin/Debug/net6.0/HomeWork_52.pdb
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.csproj.AssemblyReference.cache
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.AssemblyInfoInputs.cache
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.AssemblyInfo.cs
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.csproj.CoreCompileInputs.cache
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.dll
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/refint/HomeWork_52.dll
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.pdb
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/HomeWork_52.genruntimeconfig.cache
+/Users/igormincenko/Desktop/HomeWork_52/obj/Debug/net6.0/ref/HomeWork_52.dll
